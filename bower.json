@@ -1,0 +1,23 @@
+{
+  "name": "html-webpack",
+  "description": "html",
+  "main": "index.js",
+  "authors": [
+    "fengpan"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "html"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "angular": "angular2#^1.6.1"
+  }
+}
